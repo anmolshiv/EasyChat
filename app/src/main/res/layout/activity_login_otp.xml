@@ -128,5 +128,5 @@
         android:layout_weight="10"
         android:gravity="center"
         android:text="Resend OTP in 30 sec"
-        android:id="+id/resend_otp_textview"/>
+        android:id="@+id/resend_otp_textview"/>
 </LinearLayout>
